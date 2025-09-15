@@ -1,106 +1,72 @@
-<!-- Banner --><p align="center">
-  <img src="assets/github-header-image.png" alt="Keerthana Bichinepally Banner" />
-</p><h1 align="center">👩‍💻 Keerthana Bichinepally</h1><p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7D5FFF&center=true&vCenter=true&width=800&lines=👩‍💻+AI+%26+IoT+Engineer;📊+Machine+Learning+%26+Data+Science+Explorer;🚀+Building+Smart+Tech+for+the+Future;🌐+Turning+Ideas+into+Impactful+Solutions" />
-  </a>
-</p>
----
+<!-- Professional GitHub Profile README for Keerthana Bichinepally -->
 
-🚀 About Me
+<img src="https://raw.githubusercontent.com/Bichinepally/Bichinepally/main/banner.png" width="100%">
 
-🎓 B.Tech CSE (IoT) @ Sri Indu College of Engineering & Technology | CGPA: 8.72
-
-💻 Skilled in Python, Java, R, SQL, Web Development, ML & Data Science
-
-🔬 Built projects in IoT | AI/ML | Assistive Tech | Data Science
-
-🌱 Exploring Generative AI, Cloud & Full-Stack Development
-
-🎯 Mission: Merging AI + IoT to solve real-world problems
-
-
-
----
-
-🛠 Tech Stack
-
-Languages & Tools:
-
-      
-
-Data & Visualization:
-
-  
-
-Core Strengths: 🚀 Problem Solving | 👩‍💻 Project Management | 🎤 Communication | ⚡ Fast Learner
-
-
----
-
-🏆 Certifications
-
-🎓 AI For Everyone – DeepLearning.AI (Coursera)
-
-🤖 Generative AI – SAWIT.AI Learnathon
-
-🐍 Python Programming – Skill India, NSDC
-
-💻 Responsive Web Design – freeCodeCamp (300 hrs)
-
-🏅 Advanced Software Engineering Simulation – Walmart Forage
-
-🏅 Developer & Tech Job Simulation – Accenture Forage
-
-🌐 Web Development Concepts – Infosys Springboard
-
-
-
----
-
-📌 Featured Projects
-
-🔹 Smart Irrigation System 🌱
-IoT-based automation to optimize water usage.
-
-🔹 Driver Drowsiness Detection 💤
-ML-powered real-time fatigue detection.
-
-🔹 Voice-Based Email System 🎙
-Assistive tech enabling visually impaired users to access emails via voice.
-
-🔹 IoT Home Automation 🏡
-Smart device integration for connected living.
-
-
----
-
-📊 GitHub Analytics
+<h1 align="center">Hi 👋, I'm Keerthana Bichinepally</h1>
+<h3 align="center">🚀 AI/ML Engineer | 💻 IoT Enthusiast | 📊 Data Science Explorer</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bichinepally&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichinepally&layout=compact&theme=radical" height="180" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bichinepally&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p><p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bichinepally&theme=radical" />
+  <a href="https://www.linkedin.com/in/keerthana-bichinepally-71b531285">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bichinepally">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Bichinepally?tab=repositories">
+    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=flat&logo=vercel&logoColor=white"/>
+  </a>
 </p>
----
-
-🐍 Contribution Graph
-
-
-
 
 ---
 
-🤝 Connect with Me
-
-
-
-
-
+### 🌟 About Me
+- 🎓 Final-year *B.Tech CSE (IoT)* topper  
+- 🤖 Passionate about *Artificial Intelligence, Machine Learning, IoT & Data Science*  
+- 💼 Actively preparing for a *career in AI/ML Engineering*  
+- 🌍 Goal: Pursue *Master’s in Germany, build a **startup, and secure **EU Blue Card*  
 
 ---
 
-⭐ "Turning ideas into impactful solutions with AI, IoT & Innovation." ⭐
+### 🛠 Tech Stack
+#### Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,java,c,cpp,javascript,html,css,react,mysql,mongodb,git,docker,linux&perline=8" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+- 🔹 *AI-Powered IoT Dashboard* – Real-time IoT data visualization with AI insights  
+- 🔹 *Smart Healthcare Monitoring* – Wearable IoT + ML predictive system  
+- 🔹 *NLP Chatbot* – Context-aware chatbot for customer service  
+- 🔹 *Fraud Detection using ML* – End-to-end ML pipeline with deployment  
+
+➡ Check out my projects [here](https://github.com/Bichinepally?tab=repositories)  
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bichinepally&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichinepally&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichinepally&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🐍 Contribution Graph
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Bichinepally/Bichinepally/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### ✨ Fun Quote
+> “AI won’t replace humans, but humans with AI will replace those without it.”
+
+---
+
+💡 Let’s collaborate on AI/ML and IoT innovations! 🚀
