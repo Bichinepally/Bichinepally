@@ -1,89 +1,77 @@
-<!-- Typing Animation Header -->
-<h1 align="center">Hi 👋, I'm Keerthana Bichinepally</h1>
+<!-- 🌟 PROFESSIONAL GITHUB PROFILE README FOR BICHINEPALLY KEERTHANA -->
+
+<h1 align="center">✨ Hello, I'm <span style="color:#00C0FF;">Bichinepally Keerthana</span> ✨</h1>
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=AI+%7C+ML+%7C+IoT+Enthusiast;Final+Year+Computer+Science+Student;Always+Learning+%26+Building+Cool+Stuff" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C0FF&center=true&vCenter=true&width=500&lines=AI+%7C+ML+%7C+IoT+Enthusiast;Passionate+Programmer;Lifelong+Learner;Innovating+with+Code+%26+Data" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:keerthanabichinepally@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bichinepally"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 👩‍💻 About Me  
-- 🎓 Final-year *Computer Science Engineering* student  
-- 💡 Passionate about *AI, Machine Learning, and IoT*  
-- 🌱 Currently working on *real-world ML + IoT projects*  
-- 🔍 Exploring opportunities in *AI/ML Engineering & Research*  
-- 🚀 Goal: Build impactful tech that makes life better  
+## 💡 About Me  
+
+<p align="center">
+  <img align="center" alt="Coding Girl" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
+
+- 🎓 *B.Tech in IoT (CSE)* | Sri Indu College of Engineering & Technology (2022–2026) | CGPA: 8.72  
+- 💻 Passionate about Machine Learning, *AI, and *Data-Driven Applications  
+- 🚀 Skilled in *Python, Java, R, SQL, HTML, CSS, JavaScript*  
+- 📈 Completed *Internships in Python & Java* + certified in AI, Web Dev, and Job Simulations  
+- 🌸 Enthusiastic learner, building projects that solve *real-world problems*  
 
 ---
 
-## 🛠 Tech Stack  
+## 🛠 Languages & Tools  
 
-*Languages & Frameworks:*  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+### ☁ Cloud Platforms  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px" />
+</p>
 
-*Databases & Cloud:*  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)  
+### 💻 Programming & Scripting  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
+</p>
 
-*Tools & Platforms:*  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)  
+### 🗄 Databases & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50px" />
+</p>
+
+### 🧰 Technologies  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" />
+</p>
 
 ---
 
 ## 📌 Featured Projects  
 
-### 🌱 Smart Irrigation System  
+🔹 *🌱 Smart Irrigation System*  
 IoT-based system to monitor soil moisture & automate water usage efficiently.  
-<p>
-  <a href="https://github.com/Bichinepally/Smart-Irrigation" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://your-demo-link.com" target="_blank"><img src="https://img.shields.io/badge/Demo-Live-00C0FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Tech-IoT%20|%20Sensors%20|%20Python-9cf?style=for-the-badge" />
-</p>
 
----
-
-### 😴 Driver Drowsiness Detection  
+🔹 *😴 Driver Drowsiness Detection*  
 ML-based system to detect driver fatigue using real-time computer vision.  
-<p>
-  <a href="https://github.com/Bichinepally/Driver-Drowsiness-Detection" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://your-demo-link.com" target="_blank"><img src="https://img.shields.io/badge/Demo-Live-00C0FF?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Tech-OpenCV%20|%20Python%20|%20ML-blue?style=for-the-badge" />
-</p>
 
----
-
-### 🗣 Voice-Based Email System  
+🔹 *🗣 Voice-Based Email System*  
 Email access solution for visually impaired users through voice commands.  
-<p>
-  <a href="https://github.com/Bichinepally/Voice-Email-System" target="_blank"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github" /></a>
-  <a href="https://your-demo-link.com" target="_blank"><img src="https://img.shields.io/badge/Demo-Live-00C0FF?style=for-the-badge&logo=python&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Tech-Python%20|%20Speech%20Recognition%20|%20Flask-orange?style=for-the-badge" />
-</p>
-
----
-
-## 💼 Internships & Experience  
-
-- *AI/ML Virtual Internship* – AICTE NEAT (Remote)  
-  Built ML models & explored real-world AI applications  
-
-- *IoT Research Intern* – Institution of Electronics & Telecommunication Engineers  
-  Developed IoT-based smart automation systems  
-
----
-
-## 🏅 Certifications  
-
-- ✅ Python for Data Science – Cognitive Class (IBM)  
-- ✅ Machine Learning with Python – Coursera  
-- ✅ IoT Fundamentals – Cisco Networking Academy  
-- ✅ Data Visualization – Kaggle  
 
 ---
 
@@ -104,14 +92,34 @@ Email access solution for visually impaired users through voice commands.
 
 ---
 
+## 🎓 Certifications & Courses  
+
+- 🎯 AI For Everyone – DeepLearning.AI (Coursera) | Aug 2025  
+- 🎯 Generative AI – SAWIT.AI Learnathon | Oct 2024  
+- 🎯 Python Programming – Skill India, NSDC | Apr 2025  
+- 🎯 Python Developer – SoloLearn | Jan 2025  
+- 🎯 Advanced Software Engineering Simulation – Walmart Forage | Jan 2025  
+- 🎯 Developer & Tech Job Simulation – Accenture Forage | Jan 2025  
+- 🎯 Web Development Concepts – Infosys Springboard | Jan 2025  
+- 🎯 Responsive Web Design – freeCodeCamp (300 hrs) | Apr 2025  
+- 🎯 Paper Presentation – ICICSET’24, Sri Indu College | May 2024  
+
+---
+
 ## 🤝 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keerthana-bichinepally/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:keerthanabichinepally26@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/Bichinepally" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:keerthanabichinepally@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Bichinepally"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to check out my projects and connect with me.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Bichinepally&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+<p align="center">
+  🌸 <b>"Code, Learn, Innovate — Building impactful solutions with AI & IoT!"</b> 🌸
+</p>
