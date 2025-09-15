@@ -26,10 +26,6 @@
 - 💼 Actively preparing for a *career in AI/ML Engineering*  
 - 🌍 Goal: Pursue *Master’s in Germany, build a **startup, and secure **EU Blue Card*  
 
-<p>
-  <img src="https://img.shields.io/badge/Women%20in%20Tech-%23FF69B4?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
 ---
 
 ### 🛠 Tech Stack
