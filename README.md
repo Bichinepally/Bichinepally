@@ -1,73 +1,117 @@
-<!-- Professional GitHub Profile README for Keerthana Bichinepally -->
+<!-- 🌟 PROFESSIONAL GITHUB PROFILE README FOR BICHINEPALLY KEERTHANA -->
 
-<img src="https://raw.githubusercontent.com/Bichinepally/Bichinepally/main/banner.png" width="100%">
-
-<h1 align="center">Hi 👋, I'm Keerthana Bichinepally</h1>
-<h3 align="center">🚀 AI/ML Engineer | 💻 IoT Enthusiast | 📊 Data Science Explorer</h3>
+<h1 align="center">✨ Hello, I'm <span style="color:#00C0FF;">Bichinepally Keerthana</span> ✨</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keerthana-bichinepally-71b531285">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Bichinepally">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Bichinepally?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-FF4088?style=flat&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="mailto:keerthanabichinepally@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/keerthanabichinepally"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🌟 About Me
-- 👩‍💻 I am a *girl aspiring AI/ML Engineer*  
-- 🎓 Final-year *B.Tech CSE (IoT)* student with strong academic performance  
-- 🤖 Passionate about *Artificial Intelligence, Machine Learning, IoT & Data Science*  
-- 💼 Actively preparing for a *career in AI/ML Engineering*  
-- 🌍 Goal: Pursue *Master’s in Germany, build a **startup, and secure **EU Blue Card*  
-
----
-
-### 🛠 Tech Stack
-#### Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn,java,c,cpp,javascript,html,css,react,mysql,mongodb,git,docker,linux&perline=8" />
-</p>
-
----
-
-### 🚀 Featured Projects
-- 🔹 *AI-Powered IoT Dashboard* – Real-time IoT data visualization with AI insights  
-- 🔹 *Smart Healthcare Monitoring* – Wearable IoT + ML predictive system  
-- 🔹 *NLP Chatbot* – Context-aware chatbot for customer service  
-- 🔹 *Fraud Detection using ML* – End-to-end ML pipeline with deployment  
-
-➡ Check out my projects [here](https://github.com/Bichinepally?tab=repositories)  
-
----
-
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bichinepally&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bichinepally&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+## 💡 About Me  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichinepally&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img align="center" alt="Coding Girl" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+</p>
+
+- 🎓 *B.Tech in IoT (CSE)* | Sri Indu College of Engineering & Technology (2022–2026) | CGPA: 8.72  
+- 💻 Passionate about Machine Learning, *AI, and *Data-Driven Applications  
+- 🚀 Skilled in *Python, Java, R, SQL, HTML, CSS, JavaScript*  
+- 📈 Completed *Internships in Python & Java* + certified in AI, Web Dev, and Job Simulations  
+- 🌸 Enthusiastic learner, building projects that solve *real-world problems*  
+
+---
+
+## 🛠 Languages & Tools  
+
+### ☁ Cloud Platforms  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50px" />
+</p>
+
+### 💻 Programming & Scripting  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" />
+</p>
+
+### 🗄 Databases & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" width="50px" />
+</p>
+
+### 🧰 Technologies  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50px" />
 </p>
 
 ---
 
-### 🐍 Contribution Graph
+## 📌 Featured Projects  
+
+🔹 *🌱 Smart Irrigation System*  
+IoT-based system to monitor soil moisture & automate water usage efficiently.  
+
+🔹 *😴 Driver Drowsiness Detection*  
+ML-based system to detect driver fatigue using real-time computer vision.  
+
+🔹 *🗣 Voice-Based Email System*  
+Email access solution for visually impaired users through voice commands.  
+
+---
+
+## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bichinepally/Bichinepally/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github-readme-stats.vercel.app/api?username=keerthanabichinepally&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keerthanabichinepally&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthanabichinepally&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### ✨ Fun Quote
-> “AI won’t replace humans, but humans with AI will replace those without it.”
+## 🎓 Certifications & Courses  
+
+- 🎯 AI For Everyone – DeepLearning.AI (Coursera) | Aug 2025  
+- 🎯 Generative AI – SAWIT.AI Learnathon | Oct 2024  
+- 🎯 Python Programming – Skill India, NSDC | Apr 2025  
+- 🎯 Python Developer – SoloLearn | Jan 2025  
+- 🎯 Advanced Software Engineering Simulation – Walmart Forage | Jan 2025  
+- 🎯 Developer & Tech Job Simulation – Accenture Forage | Jan 2025  
+- 🎯 Web Development Concepts – Infosys Springboard | Jan 2025  
+- 🎯 Responsive Web Design – freeCodeCamp (300 hrs) | Apr 2025  
+- 🎯 Paper Presentation – ICICSET’24, Sri Indu College | May 2024  
 
 ---
 
-💡 Let’s collaborate on AI/ML and IoT innovations! 🚀
+## 🤝 Connect With Me  
+
+<p align="center">
+  <a href="mailto:keerthanabichinepally@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/keerthanabichinepally"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=keerthanabichinepally&label=Profile%20Views&color=blue&style=for-the-badge" />
+</p>
+
+<p align="center">
+  🌸 <b>"Code, Learn, Innovate — Building impactful solutions with AI & IoT!"</b> 🌸
+</p>
