@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:keerthanabichinepally@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bichinepally-keerthana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bichinepally"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -20,11 +20,11 @@
   <img align="center" alt="Coding Girl" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 </p>
 
-- 🎓 *B.Tech in IoT (CSE)* | Sri Indu College of Engineering & Technology (2022–2026) | CGPA: 8.72  
+- 🎓 B.Tech in IoT (CSE) | Sri Indu College of Engineering & Technology (2022–2026) | CGPA: 8.72  
 - 💻 Passionate about Machine Learning, *AI, and *Data-Driven Applications  
-- 🚀 Skilled in *Python, Java, R, SQL, HTML, CSS, JavaScript*  
-- 📈 Completed *Internships in Python & Java* + certified in AI, Web Dev, and Job Simulations  
-- 🌸 Enthusiastic learner, building projects that solve *real-world problems*  
+- 🚀 Skilled in Python, Java, R, SQL, HTML, CSS, JavaScript  
+- 📈 Completed Internships in Python & Java + certified in AI, Web Dev, and Job Simulations  
+- 🌸 Enthusiastic learner, building projects that solve real-world problems  
 
 ---
 
@@ -64,13 +64,13 @@
 
 ## 📌 Featured Projects  
 
-🔹 *🌱 Smart Irrigation System*  
+🔹 🌱 Smart Irrigation System  
 IoT-based system to monitor soil moisture & automate water usage efficiently.  
 
-🔹 *😴 Driver Drowsiness Detection*  
+🔹 😴 Driver Drowsiness Detection  
 ML-based system to detect driver fatigue using real-time computer vision.  
 
-🔹 *🗣 Voice-Based Email System*  
+🔹 🗣 Voice-Based Email System  
 Email access solution for visually impaired users through voice commands.  
 
 ---
@@ -78,8 +78,8 @@ Email access solution for visually impaired users through voice commands.
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bichinepally&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichinepally&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bichinepally&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&token=YOUR_PERSONAL_ACCESS_TOKEN" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bichinepally&layout=compact&theme=tokyonight&hide_border=true&token=YOUR_PERSONAL_ACCESS_TOKEN" height="170" />
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Email access solution for visually impaired users through voice commands.
 
 <p align="center">
   <a href="mailto:keerthanabichinepally@gmail.com"><img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bichinepally-keerthana"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Bichinepally"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
@@ -118,8 +118,8 @@ Email access solution for visually impaired users through voice commands.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bichinepally&label=Profile%20Views&color=blue&style=for-the-badge" />
-</p>
+</p> 
 
 <p align="center">
-  🌸 <b>"Code, Learn, Innovate — Building impactful solutions with AI & IoT!"</b> 🌸
+  🌸 <b>"Code, Learn, Innovate — Building impactful solutions with AI & IoT!"</b> 🌸
 </p>
